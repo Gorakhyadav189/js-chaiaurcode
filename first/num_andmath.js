@@ -5,3 +5,4 @@ console.log(num.toFixed(2));
 
 
 //=====================================mathes
+log
