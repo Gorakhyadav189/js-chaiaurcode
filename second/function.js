@@ -28,3 +28,9 @@ addTwonum(2,3);
   forobject(obj);
 
   ///-------------------------------------------------------scope-------------//
+
+//   IIFE
+// An IIFE (Immediately Invoked Function Expression) is an idiom in which a JavaScript function runs as soon as it is defined. It is also known as a self-executing anonymous function. The name IIFE is promoted by Ben Alman in his blog
+(function num() {
+    console.log("this is number")
+  })();
